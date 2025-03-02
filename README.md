@@ -3,7 +3,7 @@
 Bem-vindo ao meu portfólio profissional! Este projeto foi desenvolvido utilizando **HTML**, **CSS** e **JavaScript**, com o objetivo de apresentar minhas habilidades, projetos e oferecer uma área de contato para possíveis colaborações.
 
 ## 🌐 Acesse o Portfólio
-[Acesse meu portfólio aqui](https://felipeoliveiracode.github.io/portfolio/)
+[Acesse meu portfólio aqui]( https://flaviosantos37.github.io/portfoliopessoal)
 
 ## 📱 Compatibilidade
 O portfólio foi projetado para funcionar perfeitamente tanto em dispositivos desktop quanto mobile, proporcionando uma experiência fluida em qualquer tela.
@@ -20,4 +20,4 @@ As animações do portfólio são implementadas com a biblioteca **ScrollReveal*
 Para saber mais sobre o ScrollReveal, acesse a [documentação oficial](https://scrollrevealjs.org/).
 
 ## 🔗 Conecte-se comigo
-[LinkedIn - Felipe Oliveira](https://www.linkedin.com/in/felipeoliveiracode/)
+[LinkedIn - Flavio Santos ](https://www.linkedin.com/in/flavio-dos-santos-silva-programador/)
